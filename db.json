@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Visit the Park",
+      "day": "Feb 26th at 12:00 PM",
+      "reminder": false
+    },
+    {
+      "text": "Follow the money",
+      "day": "Saturday",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Garbage collection",
+      "day": "friday",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
