@@ -19,22 +19,10 @@
       "id": 3
     },
     {
-      "text": "Visit Grandma",
-      "day": "Sunday",
-      "reminder": true,
-      "id": 4
-    },
-    {
       "text": "Church Cleaning",
       "day": "Saturday",
       "reminder": true,
       "id": 5
-    },
-    {
-      "text": "Read that book",
-      "day": "Friday 12.00pm",
-      "reminder": false,
-      "id": 6
     }
   ]
 }
